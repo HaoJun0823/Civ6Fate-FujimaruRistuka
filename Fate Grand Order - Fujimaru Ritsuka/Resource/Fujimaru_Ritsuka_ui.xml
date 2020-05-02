@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Fujimaru_Ritsuka_ui -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 7/13/2018 10:26:23 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_MALE_PRIMARY</Type>
+			<Color>255,255,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_MALE_SECONDARY</Type>
+			<Color>62,118,146,255</Color>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_FUJIMARU_RITSUKA_MALE</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_MALE_SECONDARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_MALE_PRIMARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_BLUE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" ForegroundImage="LEADER_FUJIMARU_RITSUKA_MALE_NEUTRAL_2" BackgroundImage="LEADER_FUJIMARU_RITSUKA_MALE_BACKGROUND_LOAD" PlayDawnOfManAudio="1"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_FUJIMARU_RITSUKA_MALE" BackgroundImage="LEADER_FUJIMARU_RITSUKA_MALE_BACKGROUND"/>
+	</DiplomacyInfo>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_FEMALE_PRIMARY</Type>
+			<Color>255,255,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_FEMALE_SECONDARY</Type>
+			<Color>252,99,19,255</Color>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_FUJIMARU_RITSUKA_FEMALE</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_FEMALE_SECONDARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_FEMALE_PRIMARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_RED_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE" ForegroundImage="LEADER_FUJIMARU_RITSUKA_FEMALE_NEUTRAL_2" BackgroundImage="LEADER_FUJIMARU_RITSUKA_FEMALE_BACKGROUND_LOAD" PlayDawnOfManAudio="1"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_FUJIMARU_RITSUKA_FEMALE" BackgroundImage="LEADER_FUJIMARU_RITSUKA_FEMALE_BACKGROUND"/>
+	</DiplomacyInfo>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_PRIMARY</Type>
+			<Color>255,255,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_SECONDARY</Type>
+			<Color>125,0,125,255</Color>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_FUJIMARU_RITSUKA</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_SECONDARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_FUJIMARU_RITSUKA_PRIMARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PURPLE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA" ForegroundImage="LEADER_FUJIMARU_RITSUKA_NEUTRAL_2" BackgroundImage="LEADER_FUJIMARU_RITSUKA_FEMALE_BACKGROUND_LOAD" PlayDawnOfManAudio="1"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_FUJIMARU_RITSUKA" BackgroundImage="LEADER_FUJIMARU_RITSUKA_BACKGROUND"/>
+	</DiplomacyInfo>
+
+
+</GameData>

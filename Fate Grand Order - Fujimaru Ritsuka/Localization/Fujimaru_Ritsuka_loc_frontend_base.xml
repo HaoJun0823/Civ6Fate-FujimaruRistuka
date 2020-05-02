@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fujimaru_Ritsuka_loc_frontend_base -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 7/13/2018 10:11:00 PM -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_MALE_NAME" >
+			<Text>Lawful good Ritsuka Fujimaru</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_FEMALE_NAME" >
+			<Text>Chaotic evil Ritsuka Fujimaru</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_NAME" >
+			<Text>Ritsuka Fujimaru</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME" >
+			<Text>Master of the Chaldea</Text>
+		</Row>
+		
+		<Row Tag="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_DESCRIPTION" >
+			<Text>Extra two wild policy slot[NEWLINE]Get [ICON_GreatPerson] point more 500%[NEWLINE]Discount [ICON_GreatPerson] 50% [ICON_Gold][ICON_Faith] price[NEWLINE]When your choose the boy，Everyone [Icon_GreatPerson] forever + 30% [ICON_Culture][ICON_Science](Only once)[NEWLINE]When you choose the girl，Everyone [Icon_GreatPerson] forever + 30% [ICON_Gold][ICON_Faith](Only once)[NEWLINE]Palace, Temple, Art Museum, Artifact Museum, Amphitheatre, Broadcast Center have 5 works slots</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_NAME" >
+			<Text>Chaldea</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_NAME" >
+			<Text>Single person</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_DESCRIPTION" >
+			<Text>There is no one to help with this mission</Text>
+		</Row>
+
+	</BaseGameText>
+
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_MALE_NAME" Language="zh_Hans_CN">
+			<Text>守序善良·藤丸立香</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_FEMALE_NAME" Language="zh_Hans_CN">
+			<Text>混乱邪恶·藤丸立香</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_NAME" Language="zh_Hans_CN">
+			<Text>藤丸立香</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME" Language="zh_Hans_CN">
+			<Text>迦勒底的御主</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>额外两个通配政策槽[NEWLINE]获得 [ICON_GreatPerson] 点数多 500%[NEWLINE]减少 [ICON_GreatPerson] 50% [ICON_Gold][ICON_Faith] 价格[NEWLINE]当你是男孩的时候，每获得一个[Icon_GreatPerson] 永久 + 30% [ICON_Culture][ICON_Science]（仅一次）[NEWLINE]当你是女孩的时候，每获得一个[Icon_GreatPerson] 永久 + 30% [ICON_Gold][ICON_Faith]（仅一次）[NEWLINE]宫殿、神殿、艺术博物馆、文物博物馆、露天剧场、广播中心、有5个作品槽位</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_NAME" Language="zh_Hans_CN">
+			<Text>迦勒底</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_NAME" Language="zh_Hans_CN">
+			<Text>单人模式</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>没有人在这次任务中帮助你</Text>
+		</Row>
+
+	</LocalizedText>
+
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_MALE_NAME" Language="zh_Hant_HK">
+			<Text>守序善良·藤丸立香</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_FEMALE_NAME" Language="zh_Hant_HK">
+			<Text>混亂邪惡·藤丸立香</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_NAME" Language="zh_Hant_HK">
+			<Text>藤丸立香</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME" Language="zh_Hant_HK">
+			<Text>迦勒底的御主</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>額外兩個通配政策槽[NEWLINE]獲得 [ICON_GreatPerson] 點數多 500%[NEWLINE]減少 [ICON_GreatPerson] 50% [ICON_Gold][ICON_Faith] 價格[NEWLINE]當妳是男孩的時候，每獲得壹個[Icon_GreatPerson] 永久 + 30% [ICON_Culture][ICON_Science]（僅一次）[NEWLINE]當妳是女孩的時候，每獲得壹個[Icon_GreatPerson] 永久 + 30% [ICON_Gold][ICON_Faith]（僅一次）[NEWLINE]宮殿、神殿、藝術博物館、文物博物館、露天劇場、廣播中心、有5個作品槽位</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_NAME" Language="zh_Hant_HK">
+			<Text>迦勒底</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_NAME" Language="zh_Hant_HK">
+			<Text>單人模式</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>沒有人在這次任務中幫助你</Text>
+		</Row>
+
+	</LocalizedText>
+
+
+</GameData>

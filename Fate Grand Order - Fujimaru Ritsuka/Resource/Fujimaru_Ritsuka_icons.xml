@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fujimaru_Ritsuka_icons -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 7/13/2018 3:48:08 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_ATLAS" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_32"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_ATLAS" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_45"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_ATLAS" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_48"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_ATLAS" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_50"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_ATLAS" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_55"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_ATLAS" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_64"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_ATLAS" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_80"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_ATLAS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_256"/>
+
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_ATLAS" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_32"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_ATLAS" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_45"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_ATLAS" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_48"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_ATLAS" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_50"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_ATLAS" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_55"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_ATLAS" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_64"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_ATLAS" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_80"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_ATLAS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_256"/>
+
+		<Row Name="ICON_FUJIMARU_RITSUKA_ATLAS" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_32"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_ATLAS" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_45"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_ATLAS" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_48"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_ATLAS" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_50"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_ATLAS" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_55"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_ATLAS" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_64"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_ATLAS" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_80"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_ATLAS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_256"/>
+
+
+
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="22"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_22"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="30"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_30"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_32"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="36"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_36"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="44"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_44"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_45"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_48"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_50"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_64"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_80"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_128"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_200"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_MALE_CIV" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_MALE_CIV_256"/>
+
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="22"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_22"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="30"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_30"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_32"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="36"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_36"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="44"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_44"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_45"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_48"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_50"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_64"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_80"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_128"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_200"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_FEMALE_CIV_256"/>
+
+
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="22"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_22"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="30"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_30"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_32"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="36"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_36"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="44"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_44"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_45"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_48"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_50"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_64"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_80"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_128"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_200"/>
+		<Row Name="ICON_FUJIMARU_RITSUKA_CIV" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FUJIMARU_RITSUKA_CIV_256"/>
+		
+		
+		
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_LEADER_FUJIMARU_RITSUKA_MALE" Atlas="ICON_FUJIMARU_RITSUKA_MALE_ATLAS" Index="0"/>
+		<Row Name="ICON_CIVILIZATION_FUJIMARU_RITSUKA_MALE_CHALDEA" Atlas="ICON_FUJIMARU_RITSUKA_MALE_CIV" Index="0"/>
+
+		<Row Name="ICON_LEADER_FUJIMARU_RITSUKA_FEMALE" Atlas="ICON_FUJIMARU_RITSUKA_FEMALE_ATLAS" Index="0"/>
+		<Row Name="ICON_CIVILIZATION_FUJIMARU_RITSUKA_FEMALE_CHALDEA" Atlas="ICON_FUJIMARU_RITSUKA_FEMALE_CIV" Index="0"/>
+
+		<Row Name="ICON_LEADER_FUJIMARU_RITSUKA" Atlas="ICON_FUJIMARU_RITSUKA_ATLAS" Index="0"/>
+
+		<Row Name="ICON_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA" Atlas="ICON_FUJIMARU_RITSUKA_CIV" Index="0"/>
+	</IconDefinitions>
+</GameData>

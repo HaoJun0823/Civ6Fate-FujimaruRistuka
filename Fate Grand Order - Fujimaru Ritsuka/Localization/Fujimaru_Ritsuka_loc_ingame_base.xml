@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Charlemagne_saber_loc_ingame_base -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 7/14/2018 5:28:24 PM -->
+<GameData>
+	<BaseGameText>
+
+		<Row Tag="LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_DESCRIPTION" >
+			<Text>Chaldea Security Organization</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ADJECTIVE" >
+			<Text>Chaldea's</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_REAL_CAPITAL_GOOD" >
+			<Text>Lawful Chaldea</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_REAL_CAPITAL_BAD" >
+			<Text>Chaotic Chaldea</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_REAL_CAPITAL" >
+			<Text>Chaldea</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_1" >
+			<Text>EMIYA's Fuyuki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_2" >
+			<Text>Joan's Orlean</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_3" >
+			<Text>Drake's Oceanus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_4" >
+			<Text>Nero's Rome</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_5" >
+			<Text>Holmes's London</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_6" >
+			<Text>Edison's America</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_7" >
+			<Text>Arturia's Camelot</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_8" >
+			<Text>Gilgamesh's Babylonia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_9" >
+			<Text>Solomon's Temple</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_1" >
+			<Text>Napoleon</Text>
+			<!-- 拿破仑 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_2" >
+			<Text>Achilles</Text>
+			<!-- 阿喀琉斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_3" >
+			<Text>Sharlock Holmes</Text>
+			<!-- 夏洛克·福尔摩斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_4" >
+			<Text>Arthur</Text>
+			<!-- 亚瑟 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_5" >
+			<Text>Merlin</Text>
+			<!-- 梅林 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_6" >
+			<Text>Ozmandias</Text>
+			<!-- 奥兹曼迪亚斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_7" >
+			<Text>shirou Amakusa</Text>
+			<!-- 天草四郎时贞 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_8" >
+			<Text>Karna</Text>
+			<!-- 迦尔纳 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_9" >
+			<Text>Zhuge Kongming</Text>
+			<!--诸葛孔明 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_10" >
+			<Text>Charlemagne</Text>
+			<!-- 查理曼 -->
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_1" >
+			<Text>Musashi Miyamoto</Text>
+			<!-- 宫本武藏 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_2" >
+			<Text>Leonardo da Vinci</Text>
+			<!-- 莱昂纳多·达·芬奇 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_3" >
+			<Text>Illyasviel von Einzbern</Text>
+			<!-- 伊莉雅斯菲尔·冯·爱因兹贝伦 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_4" >
+			<Text>Jack the Ripper</Text>
+			<!-- 开膛手杰克 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_5" >
+			<Text>Nightingale</Text>
+			<!-- 南丁格尔 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_6" >
+			<Text>Orion</Text>
+			<!-- 俄里翁 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_7" >
+			<Text>Souji Okita</Text>
+			<!-- 冲田总司 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_8" >
+			<Text>Mordred</Text>
+			<!-- 莫德雷德 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_9" >
+			<Text>Medb</Text>
+			<!-- 梅芙 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_10" >
+			<Text>Quetzalcoatl</Text>
+			<!-- 魁扎尔·科亚特尔 -->
+		</Row>
+		
+	<!-- Modern -->
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_1" >
+			<Text>EMIYA</Text>
+			<!-- 卫宫 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_2" >
+			<Text>Robin Hood</Text>
+			<!-- 罗宾汉 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_3" >
+			<Text>Arjuna</Text>
+			<!-- 阿周那 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_4" >
+			<Text>Lancelot</Text>
+			<!-- 兰斯洛特 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_5" >
+			<Text>Cú Chulainn</Text>
+			<!-- 库·丘林 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_6" >
+			<Text>Li Shu Wen</Text>
+			<!-- 李书文 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_7" >
+			<Text>Lu Bu Fengxian</Text>
+			<!-- 吕布奉先 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_8" >
+			<Text>Gilgamesh</Text>
+			<!-- 吉尔伽美什 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_9" >
+			<Text>Iskandar</Text>
+			<!-- 伊斯坎达尔 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_10" >
+			<Text>Darius III Codomannus</Text>
+			<!-- 大流士三世 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_1" >
+			<Text>Nero Claudius</Text>
+			<!-- 尼禄·克劳狄乌斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_2" >
+			<Text>Tamamo no Mae</Text>
+			<!-- 玉藻前 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_3" >
+			<Text>Artilla</Text>
+			<!-- 阿提拉 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_4" >
+			<Text>Altria Pendragon</Text>
+			<!-- 阿尔托莉雅·潘德拉贡 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_5" >
+			<Text>Erzsebet Bathory</Text>
+			<!-- 伊丽莎白·巴托里 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_6" >
+			<Text>Jeanne d'Arc</Text>
+			<!-- 贞德 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_7" >
+			<Text>Erzsebet Bathory</Text>
+			<!-- 斯卡哈 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_8" >
+			<Text>Francis Drake</Text>
+			<!-- 弗朗西斯·德雷克 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_9" >
+			<Text>Mash Kyrielite</Text>
+			<!-- 玛修·基列莱特 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_10" >
+			<Text>Kiara Sesshouin</Text>
+			<!-- 杀生院·祈荒 -->
+		</Row>
+		
+		<!-- Over -->
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_REASON_ANY" >
+			<Text>{LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_REASON_ANY" >
+			<Text>{LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY}</Text>
+		</Row>
+		
+
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_LOCATION" >
+			<Text>?????</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_SIZE" >
+			<Text>?????</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_POPULATION" >
+			<Text>?????</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_CAPITAL" >
+			<Text>?????</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_QUOTE" >
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_QUOTE}</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_FUJIMARU_RITSUKA" >
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_HISTORY_PARA_1}</Text>
+		</Row>	
+		
+		
+		
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Ok, good! Let's sign the contract.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Sorry, not now.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Let's work together?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Thank you very much!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Hey, let's talk about it next time...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Destroying you is part of the plan.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>I hate traitors.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>I lost, please work hard for the future of mankind...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>You are very strong, I will be stronger next time.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Your civilization is very interesting.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>I do not need it, thank you.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>I asked my servant to give you some information, which will help you.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>This is your fault.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>You should not do this.(Denounces You)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>I am Fujimaru Ritsuka, Chaldea's master, Get to know each other?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Want to eat some food?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Your country is beautiful.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Hello there.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>You did very well.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY" >
+			<Text>(Fujimaru has increased your affection for you)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>You are doing very badly.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY" >
+			<Text>(Fujimaru has reduced his affection for you)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Go with me?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Let's forget it.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>No!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Stop, I lost.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>of course.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Sorry, maybe later.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>Can I cross your territory?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>You are not like me.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" >
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY}</Text>
+		</Row>
+
+		
+		
+		
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_TITLE" >
+			<Text>Fujimaru Ritsuka</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_SUBTITLE" >
+			<Text>Young master from Chaldea</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_QUOTE" >
+			<Text>I need more (data loss).</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_HISTORY_PARA_1" >
+			<Text>Ritsuka Fujimaru (藤丸 立香, Fujimaru Ritsuka) is the protagonist of Fate/Grand Order, acting as the Master of many Servants for the purpose of solving the Grand Order conflicts.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_CAPSULE_BODY" >
+			<Text>Sorry, we can't find any information.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_DETAILED_BODY" >
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FUJIMARU_RITSUKA_MALE_CHALDEA_CHAPTER_HISTORY_PARA_1" >
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+
+
+
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Ok, good! Let's sign the contract.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Sorry, not now.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Let's work together?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Thank you very much!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Hey, let's talk about it next time...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Destroying you is part of the plan.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>I hate traitors.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>I lost, please work hard for the future of mankind...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>You are very strong, I will be stronger next time.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Your civilization is very interesting.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>I do not need it, thank you.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>I asked my servant to give you some information, which will help you.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>This is your fault.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>You should not do this.(Denounces You)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>I am Fujimaru Ritsuka, Chaldea's master, Get to know each other?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Want to eat some food?~</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Your country is beautiful.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Hello there.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>You did very well.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_FEMALE_REASON_ANY" >
+			<Text>(Fujimaru has increased your affection for you)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>You are doing very badly.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_FEMALE_REASON_ANY" >
+			<Text>(Fujimaru has reduced his affection for you)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Go with me?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Let's forget it.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>No!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Stop, I lost.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>of course.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Sorry, maybe later.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>Can I cross your territory?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>You are not like me.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" >
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY}</Text>
+		</Row>
+
+
+
+
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_TITLE" >
+			<Text>Fujimaru Ritsuka</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_SUBTITLE" >
+			<Text>Young master from Chaldea</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_QUOTE" >
+			<Text>I need more (data loss).</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_HISTORY_PARA_1" >
+			<Text>Ritsuka Fujimaru (藤丸 立香, Fujimaru Ritsuka) is the protagonist of Fate/Grand Order, acting as the Master of many Servants for the purpose of solving the Grand Order conflicts.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_CAPSULE_BODY" >
+			<Text>Sorry, we can't find any information.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_DETAILED_BODY" >
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FUJIMARU_RITSUKA_FEMALE_CHALDEA_CHAPTER_HISTORY_PARA_1" >
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+
+		<!-- NOT USE GAME DATA -->
+		
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" >
+			<Text>Lawful good</Text>
+		</Row>
+		
+		
+
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD_DESCRIPTION" >
+			<Text>Lawful good boy</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" >
+			<Text>Chaotic evil</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD_DESCRIPTION" >
+			<Text>Chaotic evil girl</Text>
+		</Row>
+
+		<!-- V5 -->
+		
+		<Row Tag="LOC_DIPLO_MODIFIER_FUJIMARU_RITSUKA_MASTER_DECLARED_FRIEND" >
+			<Text>Fujimaru likes Declared Friends</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND" >
+			<Text>Fujimaru hates it when you denounce his friends</Text>
+		</Row>
+
+
+	</BaseGameText>
+</GameData>

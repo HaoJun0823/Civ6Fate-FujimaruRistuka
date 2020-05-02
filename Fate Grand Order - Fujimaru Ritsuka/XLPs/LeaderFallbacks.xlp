@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_FUJIMARU_RITSUKA"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_FUJIMARU_RITSUKA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_FUJIMARU_RITSUKA_FEMALE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_FUJIMARU_RITSUKA_FEMALE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_FUJIMARU_RITSUKA_MALE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_FUJIMARU_RITSUKA_MALE"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

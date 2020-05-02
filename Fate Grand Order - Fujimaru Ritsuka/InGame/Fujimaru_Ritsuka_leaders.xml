@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fujimaru_Ritsuka_leaders -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 7/13/2018 11:03:06 AM -->
+<GameData>
+	<Types>
+		<Row Type="LEADER_FUJIMARU_RITSUKA_MALE" Kind="KIND_LEADER"/>
+		<Row Type="LEADER_FUJIMARU_RITSUKA_FEMALE" Kind="KIND_LEADER"/>
+		<Row Type="LEADER_FUJIMARU_RITSUKA" Kind="KIND_LEADER"/>
+		
+		<Row Type="TRAIT_FUJIMARU_RITSUKA_MALE" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_FUJIMARU_RITSUKA_FEMALE" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_FUJIMARU_RITSUKA" Kind="KIND_TRAIT"/>
+	</Types>
+
+
+
+
+	<!-- Config Text -->
+	<Leaders>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" NAME="LOC_LEADER_FUJIMARU_RITSUKA_MALE_NAME" InheritFrom="LEADER_DEFAULT" Sex="Male" />
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE" NAME="LOC_LEADER_FUJIMARU_RITSUKA_FEMALE_NAME" InheritFrom="LEADER_DEFAULT" Sex="Female" />
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA" NAME="LOC_LEADER_FUJIMARU_RITSUKA_NAME" InheritFrom="LEADER_DEFAULT" Sex="Female" />
+	</Leaders>
+
+	<!-- Mod Text -->
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" Quote="LOC_LEADER_FUJIMARU_RITSUKA_QUOTE"/>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE" Quote="LOC_LEADER_FUJIMARU_RITSUKA_QUOTE"/>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA" Quote="LOC_LEADER_FUJIMARU_RITSUKA_QUOTE"/>
+	</LeaderQuotes>
+
+	
+	<LeaderTraits>
+
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" TraitType="TRAIT_FUJIMARU_RITSUKA_MALE"/>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA" TraitType="TRAIT_FUJIMARU_RITSUKA"/>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE" TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE"/>
+
+	</LeaderTraits>
+
+	<Traits>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" NAME="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME" Description="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_DESCRIPTION"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" NAME="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME" Description="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_DESCRIPTION"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" NAME="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME" Description="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_DESCRIPTION"/>
+	
+	</Traits>
+
+	<TraitModifiers>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="TRAIT_FUJIMARU_RITSUKA_GREAT"/>
+		
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="TRAIT_FUJIMARU_RITSUKA_SLOT_MILITARY"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="TRAIT_FUJIMARU_RITSUKA_SLOT_ECONOMIC"/>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_FAITH"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_GOLD"/>
+		
+		
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="FUJIMARU_RITSUKA_SCIENCE_GREAT"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="FUJIMARU_RITSUKA_CULTURE_GREAT"/>
+
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="FUJIMARU_RITSUKA_PALACE"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="FUJIMARU_RITSUKA_TEMPLE"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="FUJIMARU_RITSUKA_AMPHITHEATER"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="FUJIMARU_RITSUKA_MUSEUM_ART"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="FUJIMARU_RITSUKA_MUSEUM_ARTIFACT"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_MALE" ModifierId="FUJIMARU_RITSUKA_BROADCAST_CENTER"/>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="FUJIMARU_RITSUKA_PALACE"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="FUJIMARU_RITSUKA_TEMPLE"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="FUJIMARU_RITSUKA_AMPHITHEATER"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="FUJIMARU_RITSUKA_MUSEUM_ART"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="FUJIMARU_RITSUKA_MUSEUM_ARTIFACT"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="FUJIMARU_RITSUKA_BROADCAST_CENTER"/>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="FUJIMARU_RITSUKA_FAITH_GREAT"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="FUJIMARU_RITSUKA_GOLD_GREAT"/>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="TRAIT_FUJIMARU_RITSUKA_GREAT"/>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="TRAIT_FUJIMARU_RITSUKA_SLOT_MILITARY"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="TRAIT_FUJIMARU_RITSUKA_SLOT_ECONOMIC"/>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_FAITH"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA_FEMALE" ModifierId="TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_GOLD"/>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="TRAIT_FUJIMARU_RITSUKA_GREAT"/>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="TRAIT_FUJIMARU_RITSUKA_SLOT_MILITARY"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="TRAIT_FUJIMARU_RITSUKA_SLOT_ECONOMIC"/>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_FAITH"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_GOLD"/>
+
+
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="FUJIMARU_RITSUKA_SCIENCE_GREAT"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="FUJIMARU_RITSUKA_CULTURE_GREAT"/>
+
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="FUJIMARU_RITSUKA_PALACE"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="FUJIMARU_RITSUKA_TEMPLE"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="FUJIMARU_RITSUKA_AMPHITHEATER"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="FUJIMARU_RITSUKA_MUSEUM_ART"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="FUJIMARU_RITSUKA_MUSEUM_ARTIFACT"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="FUJIMARU_RITSUKA_BROADCAST_CENTER"/>
+
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="FUJIMARU_RITSUKA_FAITH_GREAT"/>
+		<Row TraitType="TRAIT_FUJIMARU_RITSUKA" ModifierId="FUJIMARU_RITSUKA_GOLD_GREAT"/>
+
+	</TraitModifiers>
+
+
+
+	<Modifiers>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_PALACE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_EXTRA_GREAT_WORK_SLOTS</ModifierType>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_TEMPLE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_EXTRA_GREAT_WORK_SLOTS</ModifierType>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_AMPHITHEATER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_EXTRA_GREAT_WORK_SLOTS</ModifierType>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_MUSEUM_ART</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_EXTRA_GREAT_WORK_SLOTS</ModifierType>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_MUSEUM_ARTIFACT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_EXTRA_GREAT_WORK_SLOTS</ModifierType>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_BROADCAST_CENTER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_EXTRA_GREAT_WORK_SLOTS</ModifierType>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_SCIENCE_GREAT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_YIELD_MODIFIER_PER_EARNED_GREAT_PERSON</ModifierType>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_CULTURE_GREAT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_YIELD_MODIFIER_PER_EARNED_GREAT_PERSON</ModifierType>
+		</Row>
+		
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_FAITH_GREAT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_YIELD_MODIFIER_PER_EARNED_GREAT_PERSON</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_GOLD_GREAT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_YIELD_MODIFIER_PER_EARNED_GREAT_PERSON</ModifierType>
+		</Row>
+
+		
+		
+		
+		
+		
+
+		<!-- GREAT PEOPLE -->
+
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_GREAT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_GOVERNMENT_FLAT_BONUS</ModifierType>
+		</Row>
+
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_FAITH</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_GREAT_PERSON_PATRONAGE_DISCOUNT_PERCENT</ModifierType>
+		</Row>
+
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_GOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_GREAT_PERSON_PATRONAGE_DISCOUNT_PERCENT</ModifierType>
+		</Row>
+
+
+		<!-- SLOT -->
+
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_SLOT_MILITARY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER</ModifierType>
+		</Row>
+
+
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_SLOT_ECONOMIC</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER</ModifierType>
+		</Row>
+
+
+	</Modifiers>
+
+	<ModifierArguments>
+
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_PALACE</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_PALACE</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_PALACE</ModifierId>
+			<Name>GreatWorkSlotType</Name>
+			<Value>GREATWORKSLOT_PALACE</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_PALACE</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_AMPHITHEATER</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_AMPHITHEATER</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_AMPHITHEATER</ModifierId>
+			<Name>GreatWorkSlotType</Name>
+			<Value>GREATWORKSLOT_WRITING</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_AMPHITHEATER</ModifierId>
+			<Name>Amount</Name>
+			<Value>3</Value>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_TEMPLE</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_TEMPLE</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_TEMPLE</ModifierId>
+			<Name>GreatWorkSlotType</Name>
+			<Value>GREATWORKSLOT_RELIC</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_TEMPLE</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_MUSEUM_ART</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_MUSEUM_ART</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_MUSEUM_ART</ModifierId>
+			<Name>GreatWorkSlotType</Name>
+			<Value>GREATWORKSLOT_ART</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_MUSEUM_ART</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_MUSEUM_ARTIFACT</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_MUSEUM_ARTIFACT</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_MUSEUM_ARTIFACT</ModifierId>
+			<Name>GreatWorkSlotType</Name>
+			<Value>GREATWORKSLOT_ARTIFACT</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_MUSEUM_ARTIFACT</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_BROADCAST_CENTER</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_BROADCAST_CENTER</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_BROADCAST_CENTER</ModifierId>
+			<Name>GreatWorkSlotType</Name>
+			<Value>GREATWORKSLOT_MUSIC</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_BROADCAST_CENTER</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_SCIENCE_GREAT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_SCIENCE_GREAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>30</Value>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_CULTURE_GREAT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_CULTURE_GREAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>30</Value>
+		</Row>
+
+		
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_GOLD_GREAT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_GOLD_GREAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>30</Value>
+		</Row>
+
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_FAITH_GREAT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>FUJIMARU_RITSUKA_FAITH_GREAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>30</Value>
+		</Row>
+
+	
+		
+		
+		
+		
+		<!-- Great People -->
+
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_GREAT</ModifierId>
+			<Name>BonusType</Name>
+			<Value>GOVERNMENTBONUS_GREAT_PEOPLE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_GREAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>500</Value>
+		</Row>
+
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_FAITH</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_FAITH</ModifierId>
+			<Name>Amount</Name>
+			<Value>50</Value>
+		</Row>		
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_GOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_GREAT_DISCOUNT_GOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>50</Value>
+		</Row>
+
+		<!-- Slot -->
+
+
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_SLOT_MILITARY</ModifierId>
+			<Name>GovernmentSlotType</Name>
+			<Value>SLOT_WILDCARD</Value>
+		</Row>
+
+		<Row>
+			<ModifierId>TRAIT_FUJIMARU_RITSUKA_SLOT_ECONOMIC</ModifierId>
+			<Name>GovernmentSlotType</Name>
+			<Value>SLOT_WILDCARD</Value>
+		</Row>
+
+	</ModifierArguments>
+
+	<ModifierStrings>
+
+		<Row ModifierId="FUJIMARU_RITSUKA_SCIENCE_GREAT" Context="Preview" Text="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME"/>
+		<Row ModifierId="FUJIMARU_RITSUKA_CULTURE_GREAT" Context="Preview" Text="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME"/>
+		<Row ModifierId="FUJIMARU_RITSUKA_GOLD_GREAT" Context="Preview" Text="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME"/>
+		<Row ModifierId="FUJIMARU_RITSUKA_FAITH_GREAT" Context="Preview" Text="LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME"/>
+		
+	</ModifierStrings>
+
+	<!-- Preload -->
+	
+	<Types>
+		<Row Type="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER" Kind="KIND_TRAIT"/>
+	</Types>
+
+	<Traits>
+		<Row TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" Name="LOC_PLACEHOLDER" Description="LOC_PLACEHOLDER"/>
+		<Row TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" Name="LOC_PLACEHOLDER" Description="LOC_PLACEHOLDER"/>
+		<Row TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER" Name="LOC_PLACEHOLDER" Description="LOC_PLACEHOLDER"/>
+	</Traits>
+
+
+	<AgendaTraits>
+		<Row AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD"/>
+		
+		<Row AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" TraitType="TRAIT_AGENDA_PREFER_POPULATION"/>
+		<Row AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" TraitType="TRAIT_AGENDA_PREFER_HAPPINESS"/>
+
+		<Row AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD"/>
+
+
+		<Row AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER" TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD"/>
+
+		<Row AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER" TraitType="TRAIT_AGENDA_PREFER_POPULATION"/>
+		<Row AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER" TraitType="TRAIT_AGENDA_PREFER_HAPPINESS"/>
+
+		<Row AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER" TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD"/>
+
+
+	</AgendaTraits>
+
+	<TraitModifiers>
+		<Row TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" ModifierId="AGENDA_FUJIMARU_RITSUKA_MASTER_FRIEND"/>
+		<Row TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" ModifierId="AGENDA_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND"/>
+
+		<Row TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" ModifierId="AGENDA_FUJIMARU_RITSUKA_MASTER_FRIEND"/>
+		<Row TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" ModifierId="AGENDA_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND"/>
+
+
+		<Row TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER" ModifierId="AGENDA_FUJIMARU_RITSUKA_MASTER_FRIEND"/>
+		<Row TraitType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER" ModifierId="AGENDA_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND"/>
+
+	</TraitModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_FRIEND</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_DECLARED_FRIEND</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_FRIEND_DENOUNCED</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_FRIEND</ModifierId>
+			<Name>InitialValue</Name>
+			<Value>16</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_FRIEND</ModifierId>
+			<Name>ReductionTurns</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_FRIEND</ModifierId>
+			<Name>ReductionValue</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_FRIEND</ModifierId>
+			<Name>MessageThrottle</Name>
+			<Value>20</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_FRIEND</ModifierId>
+			<Name>StatementKey</Name>
+			<Value>LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_REASON_ANY</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_FRIEND</ModifierId>
+			<Name>SimpleModifierDescription</Name>
+			<Value>LOC_DIPLO_MODIFIER_FUJIMARU_RITSUKA_MASTER_DECLARED_FRIEND</Value>
+		</Row>
+		
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND</ModifierId>
+			<Name>InitialValue</Name>
+			<Value>-16</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND</ModifierId>
+			<Name>ReductionTurns</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND</ModifierId>
+			<Name>ReductionValue</Name>
+			<Value>-1</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND</ModifierId>
+			<Name>MessageThrottle</Name>
+			<Value>20</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND</ModifierId>
+			<Name>StatementKey</Name>
+			<Value>LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_REASON_ANY</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND</ModifierId>
+			<Name>SimpleModifierDescription</Name>
+			<Value>LOC_DIPLO_MODIFIER_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND</Value>
+		</Row>		
+	</ModifierArguments>
+	
+	<Agendas>
+		<Row AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" Name="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" Description="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD_DESCRIPTION"/>
+		<Row AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" Name="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" Description="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD_DESCRIPTION"/>
+		<Row AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER" Name="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER" Description="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD_DESCRIPTION"/>
+	</Agendas>
+
+	<ModifierStrings>
+		<Row ModifierId="AGENDA_FUJIMARU_RITSUKA_MASTER_FRIEND" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>		
+	</ModifierStrings>
+
+	<!-- USE GAME DATA FAILD -->
+
+	<HistoricalAgendas>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD"/>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE" AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER_BAD"/>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA" AgendaType="AGENDA_FUJIMARU_RITSUKA_MASTER"/>
+	</HistoricalAgendas>
+
+	<ExclusiveAgendas>
+
+		<Row AgendaOne="AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" AgendaTwo="AGENDA_CULTURED"/>
+		<Row AgendaOne="AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" AgendaTwo="AGENDA_TECHNOPHILE"/>
+
+		<Row AgendaOne="AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" AgendaTwo="AGENDA_DARWINIST"/>
+
+		<Row AgendaOne="AGENDA_FUJIMARU_RITSUKA_MASTER" AgendaTwo="AGENDA_CULTURED"/>
+		<Row AgendaOne="AGENDA_FUJIMARU_RITSUKA_MASTER" AgendaTwo="AGENDA_TECHNOPHILE"/>
+
+		<Row AgendaOne="AGENDA_FUJIMARU_RITSUKA_MASTER" AgendaTwo="AGENDA_DARWINIST"/>
+
+	</ExclusiveAgendas>
+	
+
+	<!-- MAYBE DON'T NEED IT -->
+
+	<AgendaPreferredLeaders>
+		<Row AgendaType="AGENDA_CULTURED" LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" PercentageChance="20"/>
+		<Row AgendaType="AGENDA_TECHNOPHILE" LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" PercentageChance="80"/>
+		
+		<Row AgendaType="AGENDA_DARWINIST" LeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE" PercentageChance="100"/>
+
+		<Row AgendaType="AGENDA_CULTURED" LeaderType="LEADER_FUJIMARU_RITSUKA" PercentageChance="20"/>
+		<Row AgendaType="AGENDA_TECHNOPHILE" LeaderType="LEADER_FUJIMARU_RITSUKA" PercentageChance="30"/>
+
+		<Row AgendaType="AGENDA_DARWINIST" LeaderType="LEADER_FUJIMARU_RITSUKA" PercentageChance="50"/>
+		
+	</AgendaPreferredLeaders>
+
+	
+	<FavoredReligions>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" ReligionType="RELIGION_SHINTO"/>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE" ReligionType="RELIGION_SHINTO"/>
+		<Row LeaderType="LEADER_FUJIMARU_RITSUKA" ReligionType="RELIGION_SHINTO"/>
+	</FavoredReligions>
+
+
+	<AiListTypes>
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" />
+		<Row ListType="FUJIMARU_RITSUKA_CIVICS" />
+		<Row ListType="FUJIMARU_RITSUKA_TECHS" />
+		<Row ListType="FUJIMARU_RITSUKA_UNITS" />
+		
+	</AiListTypes>
+
+	<AiLists>
+
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" System="Buildings"/>
+		<Row ListType="FUJIMARU_RITSUKA_CIVICS" LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" System="Civics"/>
+		<Row ListType="FUJIMARU_RITSUKA_TECHS" LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" System="Technologies"/>
+		<Row ListType="FUJIMARU_RITSUKA_UNITS" LeaderType="LEADER_FUJIMARU_RITSUKA_MALE" System="UnitPromotionClasses"/>
+
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" LeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE" System="Buildings"/>
+		<Row ListType="FUJIMARU_RITSUKA_CIVICS" LeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE" System="Civics"/>
+		<Row ListType="FUJIMARU_RITSUKA_TECHS" LeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE" System="Technologies"/>
+		<Row ListType="FUJIMARU_RITSUKA_UNITS" LeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE" System="UnitPromotionClasses"/>
+
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" LeaderType="LEADER_FUJIMARU_RITSUKA" System="Buildings"/>
+		<Row ListType="FUJIMARU_RITSUKA_CIVICS" LeaderType="LEADER_FUJIMARU_RITSUKA" System="Civics"/>
+		<Row ListType="FUJIMARU_RITSUKA_TECHS" LeaderType="LEADER_FUJIMARU_RITSUKA" System="Technologies"/>
+		<Row ListType="FUJIMARU_RITSUKA_UNITS" LeaderType="LEADER_FUJIMARU_RITSUKA" System="UnitPromotionClasses"/>
+
+
+
+	</AiLists>
+
+	<AiFavoredItems>
+
+
+		<Row ListType="FUJIMARU_RITSUKA_CIVICS" Item="CIVIC_EXPLORATION" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_CIVICS" Item="CIVIC_CONSERVATION" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_CIVICS" Item="CIVIC_DEFENSIVE_TACTICS" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_CIVICS" Item="CIVIC_DIPLOMATIC_SERVICE" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_CIVICS" Item="CIVIC_NUCLEAR_PROGRAM" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_CIVICS" Item="CIVIC_GAMES_RECREATION" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_CIVICS" Item="CIVIC_FOREIGN_TRADE" Favored="true"/>
+
+
+		<Row ListType="FUJIMARU_RITSUKA_TECHS" Item="TECH_COMPUTERS" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_TECHS" Item="TECH_ELECTRICITY" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_TECHS" Item="TECH_MILITARY_TACTICS" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_TECHS" Item="TECH_SATELLITES" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_TECHS" Item="TECH_ECONOMICS" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_TECHS" Item="TECH_COMBINED_ARMS" Favored="true"/>
+
+
+
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" Item="BUILDING_COLOSSEUM" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" Item="BUILDING_ORACLE" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" Item="BUILDING_STONEHENGE" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" Item="BUILDING_CRISTO_REDENTOR" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" Item="BUILDING_FORBIDDEN_CITY" Favored="true"/>
+
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" Item="BUILDING_HANGING_GARDENS" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" Item="BUILDING_TERRACOTTA_ARMY" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" Item="BUILDING_COLOSSUS" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" Item="BUILDING_GREAT_LIGHTHOUSE" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" Item="BUILDING_BIG_BEN" Favored="true"/>
+		<Row ListType="FUJIMARU_RITSUKA_BUILDINGS" Item="BUILDING_HAGIA_SOPHIA" Favored="true"/>
+
+
+		<Row ListType="FUJIMARU_RITSUKA_UNITS" Item="PROMOTION_CLASS_MELEE" Value="1"/>
+		<Row ListType="FUJIMARU_RITSUKA_UNITS" Item="PROMOTION_CLASS_RANGED" Value="1"/>
+		<Row ListType="FUJIMARU_RITSUKA_UNITS" Item="PROMOTION_CLASS_AIR_FIGHTER" Value="1"/>
+		<Row ListType="FUJIMARU_RITSUKA_UNITS" Item="PROMOTION_CLASS_AIR_BOMBER" Value="1"/>
+
+	</AiFavoredItems>
+	
+	<!-- AGENDA -->
+	<AiListTypes>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesPeace"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesSpy"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesNuke"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesNukeUse"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesProtect"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesCityState"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesArmy"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesBandit"/>
+		
+	</AiListTypes>
+	<AILists>
+		
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesPeace" AgendaType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" System="DiplomaticActions"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesSpy" AgendaType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" System="DiplomaticActions"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat" AgendaType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" System="PseudoYields"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat" AgendaType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" System="PseudoYields"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesNuke" AgendaType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" System="PseudoYields"/>
+		
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesNukeUse" AgendaType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" System="DiplomaticActions"/>
+
+		
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesProtect" AgendaType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" System="DiplomaticActions"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesCityState" AgendaType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD	" System="PseudoYields"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesArmy" AgendaType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" System="PseudoYields"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesBandit" AgendaType="TRAIT_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" System="PseudoYields"/>
+
+	</AILists>
+
+	<AiFavoredItems>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesPeace" Item="DIPLOACTION_DECLARE_SURPRISE_WAR" Favored="false"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesPeace" Item="DIPLOACTION_DECLARE_FORMAL_WAR" Favored="false"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesPeace" Item="DIPLOACTION_DECLARE_WAR_MINOR_CIV" Favored="false"/>
+		
+		
+		
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat" Item="PSEUDOYIELD_GPP_GENERAL" Value="300"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat" Item="PSEUDOYIELD_GPP_ADMIRAL" Value="300"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat" Item="PSEUDOYIELD_GPP_ENGINEER" Value="300"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat" Item="PSEUDOYIELD_GPP_MERCHANT" Value="300"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat" Item="PSEUDOYIELD_GPP_PROPHET" Value="300"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat" Item="PSEUDOYIELD_GPP_SCIENTIST" Value="300"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat" Item="PSEUDOYIELD_GPP_WRITER" Value="300"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat" Item="PSEUDOYIELD_GPP_ARTIST" Value="300"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesGreat" Item="PSEUDOYIELD_GPP_MUSICIAN" Value="300"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesSpy" Item="DIPLOACTION_KEEP_PROMISE_DONT_SPY" Favored="false"/> <!-- ??? -->
+		
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesNuke" Item="PSEUDOYIELD_NUCLEAR_WEAPON" Value="100"/>
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesNukeUse" Item="DIPLOACTION_USE_NUCLEAR_WEAPON" Favored="true"/>
+
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesProtect" Item="DIPLOACTION_DECLARE_PROTECTORATE_WAR" Favored="true"/>
+
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesArmy" Item="PSEUDOYIELD_STANDING_ARMY_NUMBER" Value="50"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesArmy" Item="PSEUDOYIELD_STANDING_ARMY_VALUE" Value="50"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesBandit" Item="PSEUDOYIELD_CLEAR_BANDIT_CAMPS" Value="100"/>
+
+		<Row ListType="FujimaruRitsukaAgendaAiListTypesCityState" Item="PSEUDOYIELD_INFLUENCE" Value="50"/>
+
+
+	</AiFavoredItems>
+</GameData>
+

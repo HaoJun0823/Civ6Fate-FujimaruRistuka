@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fujimaru_Ritsuka_loc_ingame_cn -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 7/17/2018 9:54:34 PM -->
+<GameData>
+	<LocalizedText>
+
+		<Row Tag="LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>迦勒底人理续存保障机构</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>迦勒底的</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_REAL_CAPITAL_GOOD" Language="zh_Hans_CN">
+			<Text>守序·迦勒底</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_REAL_CAPITAL_BAD" Language="zh_Hans_CN">
+			<Text>混沌·迦勒底</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_REAL_CAPITAL" Language="zh_Hans_CN">
+			<Text>迦勒底</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_1" Language="zh_Hans_CN">
+			<Text>卫宫的东木</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_2" Language="zh_Hans_CN">
+			<Text>贞德的奥尔良</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_3" Language="zh_Hans_CN">
+			<Text>德雷克的无尽之海</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_4" Language="zh_Hans_CN">
+			<Text>尼禄的罗马</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_5" Language="zh_Hans_CN">
+			<Text>福尔摩斯的伦敦</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_6" Language="zh_Hans_CN">
+			<Text>爱迪生的美国</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_7" Language="zh_Hans_CN">
+			<Text>阿尔托莉雅的卡美洛</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_8" Language="zh_Hans_CN">
+			<Text>吉尔加美什的巴比伦</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_9" Language="zh_Hans_CN">
+			<Text>所罗门的神殿</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_1" Language="zh_Hans_CN">
+			<Text>拿破仑</Text>
+			<!-- 拿破仑 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_2" Language="zh_Hans_CN">
+			<Text>阿喀琉斯</Text>
+			<!-- 阿喀琉斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_3" Language="zh_Hans_CN">
+			<Text>夏洛克·福尔摩斯</Text>
+			<!-- 夏洛克·福尔摩斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_4" Language="zh_Hans_CN">
+			<Text>亚瑟</Text>
+			<!-- 亚瑟 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_5" Language="zh_Hans_CN">
+			<Text>梅林</Text>
+			<!-- 梅林 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_6" Language="zh_Hans_CN">
+			<Text>奥兹曼迪亚斯</Text>
+			<!-- 奥兹曼迪亚斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_7" Language="zh_Hans_CN">
+			<Text>天草四郎时贞</Text>
+			<!-- 天草四郎时贞 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_8" Language="zh_Hans_CN">
+			<Text>迦尔纳</Text>
+			<!-- 迦尔纳 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_9" Language="zh_Hans_CN">
+			<Text>诸葛孔明</Text>
+			<!--诸葛孔明 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_10" Language="zh_Hans_CN">
+			<Text>查理曼</Text>
+			<!-- 查理曼 -->
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_1" Language="zh_Hans_CN">
+			<Text>宫本武藏</Text>
+			<!-- 宫本武藏 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_2" Language="zh_Hans_CN">
+			<Text>莱昂纳多·达·芬奇</Text>
+			<!-- 莱昂纳多·达·芬奇 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_3" Language="zh_Hans_CN">
+			<Text>伊莉雅斯菲尔·冯·爱因兹贝伦</Text>
+			<!-- 伊莉雅斯菲尔·冯·爱因兹贝伦 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_4" Language="zh_Hans_CN">
+			<Text>开膛手杰克</Text>
+			<!-- 开膛手杰克 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_5" Language="zh_Hans_CN">
+			<Text>南丁格尔</Text>
+			<!-- 南丁格尔 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_6" Language="zh_Hans_CN">
+			<Text>俄里翁</Text>
+			<!-- 俄里翁 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_7" Language="zh_Hans_CN">
+			<Text>冲田总司</Text>
+			<!-- 冲田总司 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_8" Language="zh_Hans_CN">
+			<Text>莫德雷德</Text>
+			<!-- 莫德雷德 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_9" Language="zh_Hans_CN">
+			<Text>梅芙</Text>
+			<!-- 梅芙 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_10" Language="zh_Hans_CN">
+			<Text>魁扎尔·科亚特尔</Text>
+			<!-- 魁扎尔·科亚特尔 -->
+		</Row>
+
+		<!-- Modern -->
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_1" Language="zh_Hans_CN">
+			<Text>卫宫</Text>
+			<!-- 卫宫 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_2" Language="zh_Hans_CN">
+			<Text>罗宾汉</Text>
+			<!-- 罗宾汉 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_3" Language="zh_Hans_CN">
+			<Text>阿周那</Text>
+			<!-- 阿周那 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_4" Language="zh_Hans_CN">
+			<Text>兰斯洛特</Text>
+			<!-- 兰斯洛特 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_5" Language="zh_Hans_CN">
+			<Text>库·丘林</Text>
+			<!-- 库·丘林 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_6" Language="zh_Hans_CN">
+			<Text>李书文</Text>
+			<!-- 李书文 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_7" Language="zh_Hans_CN">
+			<Text>吕布奉先</Text>
+			<!-- 吕布奉先 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_8" Language="zh_Hans_CN">
+			<Text>吉尔伽美什</Text>
+			<!-- 吉尔伽美什 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_9" Language="zh_Hans_CN">
+			<Text>伊斯坎达尔</Text>
+			<!-- 伊斯坎达尔 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_10" Language="zh_Hans_CN">
+			<Text>大流士三世</Text>
+			<!-- 大流士三世 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_1" Language="zh_Hans_CN">
+			<Text>尼禄·克劳狄乌斯</Text>
+			<!-- 尼禄·克劳狄乌斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_2" Language="zh_Hans_CN">
+			<Text>玉藻前</Text>
+			<!-- 玉藻前 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_3" Language="zh_Hans_CN">
+			<Text>阿提拉</Text>
+			<!-- 阿提拉 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_4" Language="zh_Hans_CN">
+			<Text>阿尔托莉雅·潘德拉贡</Text>
+			<!-- 阿尔托莉雅·潘德拉贡 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_5" Language="zh_Hans_CN">
+			<Text>伊丽莎白·巴托里</Text>
+			<!-- 伊丽莎白·巴托里 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_6" Language="zh_Hans_CN">
+			<Text>贞德</Text>
+			<!-- 贞德 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_7" Language="zh_Hans_CN">
+			<Text>斯卡哈</Text>
+			<!-- 斯卡哈 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_8" Language="zh_Hans_CN">
+			<Text>弗朗西斯·德雷克</Text>
+			<!-- 弗朗西斯·德雷克 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_9" Language="zh_Hans_CN">
+			<Text>玛修·基列莱特</Text>
+			<!-- 玛修·基列莱特 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_10" Language="zh_Hans_CN">
+			<Text>杀生院·祈荒</Text>
+			<!-- 杀生院·祈荒 -->
+		</Row>
+
+		<!-- Over -->
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_REASON_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_REASON_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY}</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_LOCATION" Language="zh_Hans_CN">
+			<Text>?????</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_SIZE" Language="zh_Hans_CN">
+			<Text>?????</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_POPULATION" Language="zh_Hans_CN">
+			<Text>?????</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_CAPITAL" Language="zh_Hans_CN">
+			<Text>?????</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_QUOTE" Language="zh_Hans_CN">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_QUOTE}</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_FUJIMARU_RITSUKA" Language="zh_Hans_CN">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_HISTORY_PARA_1}</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>好的，让我们签订契约吧！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>对不起，不是现在。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>我们一起合作吧？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>非常感谢！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>嘿！下次再说吧……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>消灭你是我计划的一部分。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>我讨厌叛徒。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>我失败了，接下来请努力保护人理……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>你现在很强大，下次我会更强。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>你的文明很有趣。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>我不需要，谢谢。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>我告诉我的从者给你带了一些资料，这对你有帮助。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>这是你的问题。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>你不应该这么做。（谴责你）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>我是藤丸立香，迦勒底的御主，互相了解一下？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>想要吃些东西吗？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>你的国家很美丽。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>你好。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>你做的很好。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（藤丸立香对你的好感度增加了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>你做的真差劲。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（藤丸立香对你的好感度减少了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>和我一起？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>忘掉这个吧。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>不！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>停止吧，我输了。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>当然。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>对不起，以后再说吧。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>我能穿过你的领土吗？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>你比不上我。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY}</Text>
+		</Row>
+
+
+
+
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_TITLE" Language="zh_Hans_CN">
+			<Text>藤丸立香</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_SUBTITLE" Language="zh_Hans_CN">
+			<Text>迦勒底的年轻御主</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_QUOTE" Language="zh_Hans_CN">
+			<Text>我需要更多的（数据丢失）。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>藤丸 立香（Fujimaru Ritsuka）是 Fate/Grand Order的主角，是许多从者的御主，目的是修复人理。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>抱歉，我们找不到更多资料了。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FUJIMARU_RITSUKA_MALE_CHALDEA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+
+
+
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>好的，让我们签订契约吧！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>对不起，不是现在。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>我们一起合作吧？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>非常感谢！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>嘿！下次再说吧……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>消灭你是我计划的一部分。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>我讨厌叛徒。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>我失败了，接下来请努力保护人理……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>你现在很强大，下次我会更强。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>你的文明很有趣。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>我不需要，谢谢。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>我告诉我的从者给你带了一些资料，这对你有帮助。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>这是你的问题。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>你不应该这么做。（谴责你）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>我是藤丸立香，迦勒底的御主，互相了解一下？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>想要吃些东西吗？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>你的国家很美丽。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>你好。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>你做的很好。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_FEMALE_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（藤丸立香对你的好感度增加了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>你做的真差劲。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_FEMALE_REASON_ANY" Language="zh_Hans_CN">
+			<Text>（藤丸立香对你的好感度减少了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>和我一起？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>忘掉这个吧。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>不！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>停止吧，我输了。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>当然。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>对不起，以后再说吧。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>我能穿过你的领土吗？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>你比不上我。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY}</Text>
+		</Row>
+
+
+
+
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_TITLE" Language="zh_Hans_CN">
+			<Text>藤丸立香</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_SUBTITLE" Language="zh_Hans_CN">
+			<Text>迦勒底的年轻御主</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_QUOTE" Language="zh_Hans_CN">
+			<Text>我需要更多的（数据丢失）。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>藤丸 立香（Fujimaru Ritsuka）是 Fate/Grand Order的主角，是许多从者的御主，目的是修复人理。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
+			<Text>抱歉，我们找不到更多资料了。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FUJIMARU_RITSUKA_FEMALE_CHALDEA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+
+		<!-- NOT USE GAME DATA -->
+
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" Language="zh_Hans_CN">
+			<Text>秩序善</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>秩序善的咕哒君</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" Language="zh_Hans_CN">
+			<Text>混沌恶</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>混沌恶的咕哒子</Text>
+		</Row>
+
+		<!-- V5 -->
+
+		<Row Tag="LOC_DIPLO_MODIFIER_FUJIMARU_RITSUKA_MASTER_DECLARED_FRIEND" Language="zh_Hans_CN">
+			<Text>藤丸立香喜欢宣布友谊</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND" Language="zh_Hans_CN">
+			<Text>藤丸立香讨厌你谴责自己的伙伴</Text>
+		</Row>
+
+
+	</LocalizedText>
+
+	<LocalizedText>
+
+		<Row Tag="LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>迦勒底人理續存保障機構</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ADJECTIVE" Language="zh_Hant_HK">
+			<Text>迦勒底的</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_REAL_CAPITAL_GOOD" Language="zh_Hant_HK">
+			<Text>守序·迦勒底</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_REAL_CAPITAL_BAD" Language="zh_Hant_HK">
+			<Text>混噸·迦勒底</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_REAL_CAPITAL" Language="zh_Hant_HK">
+			<Text>迦勒底</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_1" Language="zh_Hant_HK">
+			<Text>衛宮的東木</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_2" Language="zh_Hant_HK">
+			<Text>貞德的奧爾良</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_3" Language="zh_Hant_HK">
+			<Text>德雷克的無盡之海</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_4" Language="zh_Hant_HK">
+			<Text>尼祿的羅馬</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_5" Language="zh_Hant_HK">
+			<Text>福爾摩斯的倫敦</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_6" Language="zh_Hant_HK">
+			<Text>愛迪生的美國</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_7" Language="zh_Hant_HK">
+			<Text>阿爾托莉雅的卡美洛</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_8" Language="zh_Hant_HK">
+			<Text>吉爾加美什的巴比倫</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_9" Language="zh_Hant_HK">
+			<Text>所羅門的神殿</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_1" Language="zh_Hant_HK">
+			<Text>拿破侖</Text>
+			<!-- 拿破侖 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_2" Language="zh_Hant_HK">
+			<Text>阿喀琉斯</Text>
+			<!-- 阿喀琉斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_3" Language="zh_Hant_HK">
+			<Text>夏洛克·福爾摩斯</Text>
+			<!-- 夏洛克·福爾摩斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_4" Language="zh_Hant_HK">
+			<Text>亞瑟</Text>
+			<!-- 亞瑟 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_5" Language="zh_Hant_HK">
+			<Text>梅林</Text>
+			<!-- 梅林 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_6" Language="zh_Hant_HK">
+			<Text>奧茲曼迪亞斯</Text>
+			<!-- 奧茲曼迪亞斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_7" Language="zh_Hant_HK">
+			<Text>天草四郎時貞</Text>
+			<!-- 天草四郎時貞 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_8" Language="zh_Hant_HK">
+			<Text>迦爾納</Text>
+			<!-- 迦爾納 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_9" Language="zh_Hant_HK">
+			<Text>諸葛孔明</Text>
+			<!--諸葛孔明 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MALE_10" Language="zh_Hant_HK">
+			<Text>查理曼</Text>
+			<!-- 查理曼 -->
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_1" Language="zh_Hant_HK">
+			<Text>宮本武藏</Text>
+			<!-- 宮本武藏 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_2" Language="zh_Hant_HK">
+			<Text>萊昂納多·達·芬奇</Text>
+			<!-- 萊昂納多·達·芬奇 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_3" Language="zh_Hant_HK">
+			<Text>伊莉雅斯菲爾·馮·愛因茲貝倫</Text>
+			<!-- 伊莉雅斯菲爾·馮·愛因茲貝倫 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_4" Language="zh_Hant_HK">
+			<Text>開膛手傑克</Text>
+			<!-- 開膛手傑克 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_5" Language="zh_Hant_HK">
+			<Text>南丁格爾</Text>
+			<!-- 南丁格爾 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_6" Language="zh_Hant_HK">
+			<Text>俄裏翁</Text>
+			<!-- 俄裏翁 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_7" Language="zh_Hant_HK">
+			<Text>沖田總司</Text>
+			<!-- 沖田總司 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_8" Language="zh_Hant_HK">
+			<Text>莫德雷德</Text>
+			<!-- 莫德雷德 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_9" Language="zh_Hant_HK">
+			<Text>梅芙</Text>
+			<!-- 梅芙 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_FEMALE_10" Language="zh_Hant_HK">
+			<Text>魁紮爾·科亞特爾</Text>
+			<!-- 魁紮爾·科亞特爾 -->
+		</Row>
+
+		<!-- Modern -->
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_1" Language="zh_Hant_HK">
+			<Text>衛宮</Text>
+			<!-- 衛宮 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_2" Language="zh_Hant_HK">
+			<Text>羅賓漢</Text>
+			<!-- 羅賓漢 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_3" Language="zh_Hant_HK">
+			<Text>阿周那</Text>
+			<!-- 阿周那 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_4" Language="zh_Hant_HK">
+			<Text>蘭斯洛特</Text>
+			<!-- 蘭斯洛特 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_5" Language="zh_Hant_HK">
+			<Text>庫·丘林</Text>
+			<!-- 庫·丘林 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_6" Language="zh_Hant_HK">
+			<Text>李書文</Text>
+			<!-- 李書文 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_7" Language="zh_Hant_HK">
+			<Text>呂布奉先</Text>
+			<!-- 呂布奉先 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_8" Language="zh_Hant_HK">
+			<Text>吉爾伽美什</Text>
+			<!-- 吉爾伽美什 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_9" Language="zh_Hant_HK">
+			<Text>伊斯坎達爾</Text>
+			<!-- 伊斯坎達爾 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_MALE_10" Language="zh_Hant_HK">
+			<Text>大流士三世</Text>
+			<!-- 大流士三世 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_1" Language="zh_Hant_HK">
+			<Text>尼祿·克勞狄烏斯</Text>
+			<!-- 尼祿·克勞狄烏斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_2" Language="zh_Hant_HK">
+			<Text>玉藻前</Text>
+			<!-- 玉藻前 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_3" Language="zh_Hant_HK">
+			<Text>阿提拉</Text>
+			<!-- 阿提拉 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_4" Language="zh_Hant_HK">
+			<Text>阿爾托莉雅·潘德拉貢</Text>
+			<!-- 阿爾托莉雅·潘德拉貢 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_5" Language="zh_Hant_HK">
+			<Text>伊麗莎白·巴托裏</Text>
+			<!-- 伊麗莎白·巴托裏 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_6" Language="zh_Hant_HK">
+			<Text>貞德</Text>
+			<!-- 貞德 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_7" Language="zh_Hant_HK">
+			<Text>斯卡哈</Text>
+			<!-- 斯卡哈 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_8" Language="zh_Hant_HK">
+			<Text>弗朗西斯·德雷克</Text>
+			<!-- 弗朗西斯·德雷克 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_9" Language="zh_Hant_HK">
+			<Text>瑪修·基列萊特</Text>
+			<!-- 瑪修·基列萊特 -->
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_FUJIMARU_RITSUKA_MODERN_FEMALE_10" Language="zh_Hant_HK">
+			<Text>殺生院·祈荒</Text>
+			<!-- 殺生院·祈荒 -->
+		</Row>
+
+		<!-- Over -->
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_REASON_ANY" Language="zh_Hant_HK">
+			<Text>{LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_REASON_ANY" Language="zh_Hant_HK">
+			<Text>{LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY}</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_LOCATION" Language="zh_Hant_HK">
+			<Text>?????</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_SIZE" Language="zh_Hant_HK">
+			<Text>?????</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_POPULATION" Language="zh_Hant_HK">
+			<Text>?????</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FUJIMARU_RITSUKA_CAPITAL" Language="zh_Hant_HK">
+			<Text>?????</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FUJIMARU_RITSUKA_QUOTE" Language="zh_Hant_HK">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_QUOTE}</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_FUJIMARU_RITSUKA" Language="zh_Hant_HK">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_HISTORY_PARA_1}</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>好的，讓我們簽訂契約吧！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>對不起，不是現在。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>我們壹起合作吧？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>非常感謝！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>嘿！下次再說吧……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>消滅妳是我計劃的壹部分。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>我討厭叛徒。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>我失敗了，接下來請努力保護人理……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>妳現在很強大，下次我會更強。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>妳的文明很有趣。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>我不需要，謝謝。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>我告訴我的從者給妳帶了壹些資料，這對妳有幫助。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>這是妳的問題。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>妳不應該這麽做。（譴責妳）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>我是藤丸立香，迦勒底的禦主，互相了解壹下？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>想要吃些東西嗎？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>妳的國家很美麗。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>妳好。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>妳做的很好。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY" Language="zh_Hant_HK">
+			<Text>（藤丸立香對妳的好感度增加了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>妳做的真差勁。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_MALE_REASON_ANY" Language="zh_Hant_HK">
+			<Text>（藤丸立香對妳的好感度減少了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>和我壹起？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>忘掉這個吧。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>不！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>停止吧，我輸了。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>當然。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>對不起，以後再說吧。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>我能穿過妳的領土嗎？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>妳比不上我。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY" Language="zh_Hant_HK">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_MALE_ANY}</Text>
+		</Row>
+
+
+
+
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_TITLE" Language="zh_Hant_HK">
+			<Text>藤丸立香</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_SUBTITLE" Language="zh_Hant_HK">
+			<Text>迦勒底的年輕禦主</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_QUOTE" Language="zh_Hant_HK">
+			<Text>我需要更多的（數據丟失）。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>藤丸 立香（Fujimaru Ritsuka）是 Fate/Grand Order的主角，是許多從者的禦主，目的是修復人理。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_CAPSULE_BODY" Language="zh_Hant_HK">
+			<Text>抱歉，我們找不到更多資料了。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_DETAILED_BODY" Language="zh_Hant_HK">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FUJIMARU_RITSUKA_MALE_CHALDEA_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_MALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+
+
+
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>好的，讓我們簽訂契約吧！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>對不起，不是現在。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>我們壹起合作吧？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>非常感謝！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>嘿！下次再說吧……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>消滅妳是我計劃的壹部分。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>我討厭叛徒。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>我失敗了，接下來請努力保護人理……</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>妳現在很強大，下次我會更強。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>妳的文明很有趣。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>我不需要，謝謝。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>我告訴我的從者給妳帶了壹些資料，這對妳有幫助。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>這是妳的問題。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>妳不應該這麽做。（譴責妳）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>我是藤丸立香，迦勒底的禦主，互相了解壹下？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>想要吃些東西嗎？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>妳的國家很美麗。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>妳好。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>妳做的很好。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FUJIMARU_RITSUKA_FEMALE_REASON_ANY" Language="zh_Hant_HK">
+			<Text>（藤丸立香對妳的好感度增加了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>妳做的真差勁。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FUJIMARU_RITSUKA_FEMALE_REASON_ANY" Language="zh_Hant_HK">
+			<Text>（藤丸立香對妳的好感度減少了）</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>和我壹起？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>忘掉這個吧。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>不！</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>停止吧，我輸了。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>當然。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>對不起，以後再說吧。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>我能穿過妳的領土嗎？</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>妳比不上我。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY" Language="zh_Hant_HK">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FUJIMARU_RITSUKA_FEMALE_ANY}</Text>
+		</Row>
+
+
+
+
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_TITLE" Language="zh_Hant_HK">
+			<Text>藤丸立香</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_SUBTITLE" Language="zh_Hant_HK">
+			<Text>迦勒底的年輕禦主</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_QUOTE" Language="zh_Hant_HK">
+			<Text>我需要更多的（數據丟失）。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>藤丸 立香（Fujimaru Ritsuka）是 Fate/Grand Order的主角，是許多從者的禦主，目的是修復人理。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_CAPSULE_BODY" Language="zh_Hant_HK">
+			<Text>抱歉，我們找不到更多資料了。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_DETAILED_BODY" Language="zh_Hant_HK">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FUJIMARU_RITSUKA_FEMALE_CHALDEA_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_FUJIMARU_RITSUKA_FEMALE_CHAPTER_CAPSULE_BODY}</Text>
+		</Row>
+
+
+
+		<!-- NOT USE GAME DATA -->
+
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD" Language="zh_Hant_HK">
+			<Text>秩序善</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_GOOD_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>秩序善的咕噠君</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD" Language="zh_Hant_HK">
+			<Text>混噸惡</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_AGENDA_FUJIMARU_RITSUKA_MASTER_BAD_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>混噸惡的咕噠子</Text>
+		</Row>
+
+		<!-- V5 -->
+
+		<Row Tag="LOC_DIPLO_MODIFIER_FUJIMARU_RITSUKA_MASTER_DECLARED_FRIEND" Language="zh_Hant_HK">
+			<Text>藤丸立香喜歡宣布友誼</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_FUJIMARU_RITSUKA_MASTER_DENOUNCED_FRIEND" Language="zh_Hant_HK">
+			<Text>藤丸立香討厭妳譴責自己的夥伴</Text>
+		</Row>
+
+
+	</LocalizedText>
+	
+	
+</GameData>

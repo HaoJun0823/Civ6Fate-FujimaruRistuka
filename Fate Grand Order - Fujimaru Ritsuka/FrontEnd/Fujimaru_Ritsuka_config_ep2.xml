@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fujimaru_Ritsuka_config_ep2 -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2019/2/14 16:33:13 -->
+<GameData>
+	<DuplicateLeaders>
+		<Row Domain="Players:Expansion2_Players" LeaderType="LEADER_FUJIMARU_RITSUKA" OtherLeaderType="LEADER_FUJIMARU_RITSUKA_MALE"/>
+		<Row Domain="Players:Expansion2_Players" LeaderType="LEADER_FUJIMARU_RITSUKA" OtherLeaderType="LEADER_FUJIMARU_RITSUKA_FEMALE"/>
+	</DuplicateLeaders>
+	<Players>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+
+			<CivilizationType>CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA</CivilizationType>
+			<LeaderType>LEADER_FUJIMARU_RITSUKA_MALE</LeaderType>
+
+			<!-- Config Text -->
+			<CivilizationName>LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_FUJIMARU_RITSUKA_MALE_CHALDEA</CivilizationIcon>
+
+			<!-- Config Text -->
+			<LeaderName>LOC_LEADER_FUJIMARU_RITSUKA_MALE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FUJIMARU_RITSUKA_MALE</LeaderIcon>
+
+			<!-- Mod Text -->
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_FUJIMARU_RITSUKA_MALE_CHALDEA</CivilizationAbilityIcon>
+
+			<!-- Config Text-->
+			<LeaderAbilityName>LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FUJIMARU_RITSUKA_MALE</LeaderAbilityIcon>
+
+			<Portrait>LEADER_FUJIMARU_RITSUKA_MALE_NEUTRAL</Portrait>
+
+		</Row>
+
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+
+			<CivilizationType>CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA</CivilizationType>
+			<LeaderType>LEADER_FUJIMARU_RITSUKA_FEMALE</LeaderType>
+
+			<!-- Config Text -->
+			<CivilizationName>LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_FUJIMARU_RITSUKA_FEMALE_CHALDEA</CivilizationIcon>
+
+			<!-- Config Text -->
+			<LeaderName>LOC_LEADER_FUJIMARU_RITSUKA_FEMALE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FUJIMARU_RITSUKA_FEMALE</LeaderIcon>
+
+			<!-- Mod Text -->
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_FUJIMARU_RITSUKA_FEMALE_CHALDEA</CivilizationAbilityIcon>
+
+			<!-- Config Text-->
+			<LeaderAbilityName>LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FUJIMARU_RITSUKA_FEMALE</LeaderAbilityIcon>
+
+			<Portrait>LEADER_FUJIMARU_RITSUKA_FEMALE_NEUTRAL</Portrait>
+
+		</Row>
+
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+
+			<CivilizationType>CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA</CivilizationType>
+			<LeaderType>LEADER_FUJIMARU_RITSUKA</LeaderType>
+
+			<!-- Config Text -->
+			<CivilizationName>LOC_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA</CivilizationIcon>
+
+			<!-- Config Text -->
+			<LeaderName>LOC_LEADER_FUJIMARU_RITSUKA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FUJIMARU_RITSUKA</LeaderIcon>
+
+			<!-- Mod Text -->
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_FUJIMARU_RITSUKA_CHALDEA_ABILITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_FUJIMARU_RITSUKA_FEMALE_CHALDEA</CivilizationAbilityIcon>
+
+			<!-- Config Text-->
+			<LeaderAbilityName>LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_LEADER_ABILITY_FUJIMARU_RITSUKA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FUJIMARU_RITSUKA</LeaderAbilityIcon>
+
+			<Portrait>LEADER_FUJIMARU_RITSUKA_NEUTRAL</Portrait>
+		</Row>
+
+	</Players>
+
+</GameData>

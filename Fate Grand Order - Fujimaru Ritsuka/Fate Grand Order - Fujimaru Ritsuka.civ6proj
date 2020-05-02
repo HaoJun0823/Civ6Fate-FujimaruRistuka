@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>LOC_CIVILIZATION_FUJIMARU_RITSUKA_MOD_NAME</Name>
+    <Guid>1896cdce-d70b-48c0-99f1-e777fca59f7a</Guid>
+    <ProjectGuid>664699aa-ae6b-47f6-9eb8-b82dbbc95057</ProjectGuid>
+    <ModVersion>9</ModVersion>
+    <Teaser>LOC_CIVILIZATION_FUJIMARU_RITSUKA_MOD_SPECIAL_TEASER</Teaser>
+    <Description>LOC_CIVILIZATION_FUJIMARU_RITSUKA_MOD_SPECIAL_DESCRIPTION</Description>
+    <Authors>LOC_CIVILIZATION_FUJIMARU_RITSUKA_MOD_AUTHOR</Authors>
+    <SpecialThanks>LOC_CIVILIZATION_FUJIMARU_RITSUKA_MOD_SPECIAL_THANKS</SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <AssemblyName>Fate Grand Order - Fujimaru Ritsuka</AssemblyName>
+    <RootNamespace>Fate Grand Order - Fujimaru Ritsuka</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="Config"><File>FrontEnd/Fujimaru_Ritsuka_config.xml</File><File>FrontEnd/Fujimaru_Ritsuka_config_ep1.xml</File><File>FrontEnd/Fujimaru_Ritsuka_config_ep2.xml</File></UpdateDatabase><UpdateIcons id="ConfigIcons"><File>Resource/Fujimaru_Ritsuka_icons.xml</File></UpdateIcons><UpdateArt id="ConfigArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="ConfigText"><File>Localization/Fujimaru_Ritsuka_loc_frontend_base.xml</File><File>Localization/Fujimaru_Ritsuka_loc_mod_desc.xml</File></UpdateText></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Gameplay"><Criteria>LeaderCriteria</Criteria><File>InGame/Fujimaru_Ritsuka_civilization.xml</File><File>InGame/Fujimaru_Ritsuka_leaders.xml</File><File>Resource/Fujimaru_Ritsuka_ui.xml</File></UpdateDatabase><UpdateIcons id="Icons"><Criteria>LeaderCriteria</Criteria><File>Resource/Fujimaru_Ritsuka_icons.xml</File></UpdateIcons><UpdateArt id="Art"><Criteria>LeaderCriteria</Criteria><File>(Mod Art Dependency File)</File></UpdateArt><UpdateLogitechARX id="ARX"><Criteria>LeaderCriteria</Criteria><File>Data/ARX/Civ_LEADER_FUJIMARU_RITSUKA_MALE.png</File><File>Data/ARX/Civ_LEADER_FUJIMARU_RITSUKA_FEMALE.png</File><File>Data/ARX/Civ_LEADER_FUJIMARU_RITSUKA.png</File></UpdateLogitechARX><UpdateText id="Text"><Criteria>LeaderCriteria</Criteria><File>Localization/Fujimaru_Ritsuka_loc_frontend_base.xml</File><File>Localization/Fujimaru_Ritsuka_loc_ingame_base.xml</File><File>Localization/Fujimaru_Ritsuka_loc_ingame_cn.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+    <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LeaderCriteria"><LeaderPlayable>StandardPlayers::LEADER_FUJIMARU_RITSUKA_FEMALE,Players:Expansion1_Players::LEADER_FUJIMARU_RITSUKA_FEMALE,Players:Expansion2_Players::LEADER_FUJIMARU_RITSUKA_FEMALE,StandardPlayers::LEADER_FUJIMARU_RITSUKA_MALE,Players:Expansion1_Players::LEADER_FUJIMARU_RITSUKA_MALE,Players:Expansion2_Players::LEADER_FUJIMARU_RITSUKA_MALE,StandardPlayers::LEADER_FUJIMARU_RITSUKA,Players:Expansion1_Players::LEADER_FUJIMARU_RITSUKA,Players:Expansion2_Players::LEADER_FUJIMARU_RITSUKA</LeaderPlayable></Criteria></ActionCriteria>]]></ActionCriteriaData>
+    <Homepage>https://steamcommunity.com/id/HaoJun0823/</Homepage>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Data" />
+    <Folder Include="Data\ARX" />
+    <Folder Include="FrontEnd" />
+    <Folder Include="InGame" />
+    <Folder Include="Localization" />
+    <Folder Include="Resource" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\ARX\Civ_LEADER_FUJIMARU_RITSUKA.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\ARX\Civ_LEADER_FUJIMARU_RITSUKA_FEMALE.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\ARX\Civ_LEADER_FUJIMARU_RITSUKA_MALE.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="FrontEnd\Fujimaru_Ritsuka_config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="FrontEnd\Fujimaru_Ritsuka_config_ep1.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="FrontEnd\Fujimaru_Ritsuka_config_ep2.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Fujimaru_Ritsuka_civilization.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Fujimaru_Ritsuka_colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Fujimaru_Ritsuka_leaders.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Fujimaru_Ritsuka_loc_ingame_base.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Fujimaru_Ritsuka_loc_ingame_cn.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Fujimaru_Ritsuka_loc_mod_desc.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Fujimaru_Ritsuka_loc_frontend_base.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Resource\Fujimaru_Ritsuka_icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Resource\Fujimaru_Ritsuka_ui.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
