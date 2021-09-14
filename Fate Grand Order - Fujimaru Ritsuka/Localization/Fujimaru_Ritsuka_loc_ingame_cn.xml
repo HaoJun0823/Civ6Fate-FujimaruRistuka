@@ -27,7 +27,7 @@
 
 
 		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_1" Language="zh_Hans_CN">
-			<Text>卫宫的东木</Text>
+			<Text>卫宫的冬木</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_2" Language="zh_Hans_CN">
 			<Text>贞德的奥尔良</Text>
@@ -650,7 +650,7 @@
 
 
 		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_1" Language="zh_Hant_HK">
-			<Text>衛宮的東木</Text>
+			<Text>衛宮的冬木</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_FUJIMARU_RITSUKA_FGO_2" Language="zh_Hant_HK">
 			<Text>貞德的奧爾良</Text>
